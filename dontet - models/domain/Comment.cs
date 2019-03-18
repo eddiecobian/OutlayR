@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sabio.Models.Domain
+namespace myApp.Models.Domain
 {
     public class Comment
     {

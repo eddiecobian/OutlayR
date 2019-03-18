@@ -1,15 +1,15 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Sabio.Models.Domain;
-using Sabio.Models.Requests;
-using Sabio.Services;
-using Sabio.Services.Interfaces;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using myApp.Models.Domain;
+using myApp.Models.Requests;
+using myApp.Services;
+using myApp.Services.Interfaces;
+using myApp.Web.Controllers;
+using myApp.Web.Models.Responses;
 using System;
 using System.Collections.Generic;
 
-namespace Sabio.Web.Api.Controllers
+namespace myApp.Web.Api.Controllers
 {
     [Route("api/blogs")]
     [ApiController]

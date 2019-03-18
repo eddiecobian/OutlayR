@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace Sabio.Models.Requests
+namespace myApp.Models.Requests
 {
     public class CommentUpdateRequest : CommentAddRequest
     {

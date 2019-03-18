@@ -1,10 +1,10 @@
-﻿using Sabio.Models.Domain;
-using Sabio.Models.Requests;
+﻿using myApp.Models.Domain;
+using myApp.Models.Requests;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Sabio.Services.Interfaces
+namespace myApp.Services.Interfaces
 {
     public interface IBlogService
     {

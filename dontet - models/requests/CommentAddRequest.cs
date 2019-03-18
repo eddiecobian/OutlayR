@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Sabio.Models.Requests
+namespace myApp.Models.Requests
 {
     public class CommentAddRequest
     {
